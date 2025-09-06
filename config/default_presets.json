@@ -1,0 +1,30 @@
+{
+  "Professional": {
+    "creativity": 0.3,
+    "professionalism": 0.9,
+    "friendliness": 0.6,
+    "sarcasm": 0.0,
+    "verbosity": 0.7
+  },
+  "Friendly": {
+    "creativity": 0.5,
+    "professionalism": 0.4,
+    "friendliness": 0.9,
+    "sarcasm": 0.1,
+    "verbosity": 0.8
+  },
+  "Creative": {
+    "creativity": 0.9,
+    "professionalism": 0.3,
+    "friendliness": 0.7,
+    "sarcasm": 0.3,
+    "verbosity": 0.9
+  },
+  "Sarcastic": {
+    "creativity": 0.7,
+    "professionalism": 0.2,
+    "friendliness": 0.4,
+    "sarcasm": 0.9,
+    "verbosity": 0.6
+  }
+}
